@@ -1,0 +1,5 @@
+Live report document:
+https://docs.google.com/document/d/1t8yur5ryPM2rHABlqd1xwSC6OzaoQex7-j6-s_HIZio/edit?usp=sharing
+
+GitHub/GitLab repository:
+https://github.com/alsaleemmohammed076-crypto/Smart-Clinic-Database.git
